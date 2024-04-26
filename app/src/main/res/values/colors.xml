@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF222222</color> <!-- Negro oscuro -->
+    <color name="white">#FFE0E0E0</color> <!-- Blanco grisáceo -->
+
+    <!--Colores para MATERIAL DESIGN con inspiración japonesa-->
+    <color name="colorPrimary">#C62828</color> <!-- Rojo oscuro inspirado en los templos japoneses -->
+    <color name="colorPrimaryDark">#8E0000</color> <!-- Rojo aún más oscuro -->
+    <color name="colorAccent">#F06292</color> <!-- Rosa inspirado en las flores de cerezo -->
+    <color name="colorOnPrimary">#FFFFFF</color> <!-- Texto blanco sobre el color primario -->
+    <color name="colorOnSecondary">#000000</color> <!-- Texto negro sobre el color secundario -->
+    <color name="colorAlertIcon">#FFB300</color>
+    <color name="colorAlertButtons">#3949AB</color>
+
+</resources>

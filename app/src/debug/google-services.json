@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "195099745036",
+    "project_id": "oauthjapones",
+    "storage_bucket": "oauthjapones.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195099745036:android:cb9d88d5394c86fe524729",
+        "android_client_info": {
+          "package_name": "com.jgomez.nihongo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195099745036-0kd846cvucoqsoc6borahhb2a8gnh81u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jgomez.nihongo",
+            "certificate_hash": "2f453573761507ec1fbc85ab36a1ed986c15900f"
+          }
+        },
+        {
+          "client_id": "195099745036-aquue8ai0orv5le7kimlh8hgd60o1ff9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIgNnZRaV6l56tpBVGoIqhntQaq5juaAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195099745036-aquue8ai0orv5le7kimlh8hgd60o1ff9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
